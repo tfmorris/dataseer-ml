@@ -695,6 +695,6 @@ Doku Wiki. Those data types must be reviewed and updated to be consistent with W
 
 Author and contact: Patrice Lopez (<patrice.lopez@science-miner.com>)
 
-The development of *dataseer-ml* was supported by a [Sloan Foundation](https://sloan.org/) grant, see [here](https://coko.foundation/coko-receives-sloan-foundation-grant-to-build-dataseer-a-missing-piece-in-the-data-sharing-puzzle/)
+The development of *dataseer-ml* was supported by a [Sloan Foundation](https://sloan.org/) grant, see [here](https://dataseer.ai/2020/06/11/coko-receives-sloan-foundation-grant-to-build-dataseer-a-missing-piece-in-the-data-sharing-puzzle/)
 
 *dataseer-ml* is distributed under [Apache2 license](https://www.apache.org/licenses/LICENSE-2.0).
